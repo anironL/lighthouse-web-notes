@@ -9,5 +9,5 @@
 ##### H5 header
 ###### This is an H6 header (smallest)
 
-###Summary
+### Summary
 This repository contains all of the notes taken by Sam for the Lighthouse Labs Web Development Bootcamp.
